@@ -1,0 +1,6 @@
+Hi Sir,
+
+$body #$invoice_no 
+$note
+
+$random_$invoice_no_$ran_$receipt_
